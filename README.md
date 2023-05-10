@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devattom
-- 👀 I’m interested in front-end dev.
-- 🌱 I’m currently learning html and css.
+- 👀 I’m interested in full-stack dev.
+- 🌱 I’m currently learning React and Python. 
 - 💞️ I’m looking to collaborate on any project that can make me improve my skills.
 - 📫 How to reach me devattom@gmail.com
 
